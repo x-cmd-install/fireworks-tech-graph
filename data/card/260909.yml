@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.2.0"
   latestRelease: "v1.2.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T06:28:59Z
+  collectedAt: 2026-09-09T18:15:52Z
 timeline:
   created: 2026-04-10
   lastCommit: 2026-09-05
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-07-17
   lastPrerelease: 
 popularity:
-  star: 11304
-  watcher: 38
-  fork: 900
+  star: 11314
+  watcher: 37
+  fork: 901
   release: 8
   contributor: 13
   pullRequest: 20
@@ -86,7 +86,7 @@ total:
   commit: 72
 ---
 path: /home/runner/.x-repo/github.com/yizhiyanhua-ai/fireworks-tech-graph
-collectedAt: 2026-09-09T06:29:01Z
+collectedAt: 2026-09-09T18:15:54Z
 loc:
   Python:
     code: 25597
