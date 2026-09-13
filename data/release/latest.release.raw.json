@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 7217666,
       "digest": "sha256:01edddef492988b7144439540bc0f6cd1f8baaa8ed2493c1e0cd35fa35668ef0",
-      "download_count": 487,
+      "download_count": 490,
       "created_at": "2026-07-17T03:53:01Z",
       "updated_at": "2026-07-17T03:53:01Z",
       "browser_download_url": "https://github.com/yizhiyanhua-ai/fireworks-tech-graph/releases/download/v1.2.0/fireworks-tech-graph-v1.2.0.zip"
