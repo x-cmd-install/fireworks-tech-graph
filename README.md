@@ -38,22 +38,22 @@ Total: **37,722** lines of code across **144** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 11,937 · **Forks**: 935 · **Open issues**: 12 · **Contributors**: 13
+- **Stars**: 11,943 · **Forks**: 937 · **Open issues**: 12 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 20 · **Open PRs**: 0 · **Closed issues**: 11 · **Open issues**: 1 · **Commits**: 73
+- **Releases**: 8 · **Merged PRs**: 20 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 1 · **Commits**: 73
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 0 | 0 | 1 | 1 |
-| last60d | 2026-09-05 | 0 | 0 | 0 | 0 | 1 | 1 |
-| 90d | 2026-08-06 | 0 | 0 | 0 | 0 | 1 | 5 |
-| last180d | 2026-05-08 | 8 | 12 | 0 | 4 | 1 | 24 |
-| 360d | 2025-11-09 | 8 | 20 | 0 | 11 | 1 | 50 |
-| last720d | 2024-11-14 | 8 | 20 | 0 | 11 | 1 | 73 |
+| 30d | 2026-10-06 | 0 | 0 | 1 | 0 | 1 | 1 |
+| last60d | 2026-09-06 | 0 | 0 | 1 | 0 | 1 | 1 |
+| 90d | 2026-08-07 | 0 | 0 | 1 | 0 | 1 | 5 |
+| last180d | 2026-05-09 | 8 | 12 | 1 | 4 | 1 | 24 |
+| 360d | 2025-11-10 | 8 | 20 | 1 | 11 | 1 | 50 |
+| last720d | 2024-11-15 | 8 | 20 | 1 | 11 | 1 | 73 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for fireworks-tech-graph lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:56:12Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T08:12:55Z._
