@@ -14,13 +14,13 @@ x install fireworks-tech-graph
 
 ## Code insight
 
-Total: **37,722** lines of code across **144** files in the top 5 languages.
+Total: **41,342** lines of code across **156** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 25,597 | 114 | 2,248 | 48 |
+| Python | 29,173 | 142 | 2,592 | 60 |
 | JavaScript | 5,766 | 8 | 106 | 6 |
-| Json | 4,408 | 0 | 0 | 60 |
+| Json | 4,456 | 0 | 0 | 60 |
 | Sh | 798 | 76 | 146 | 7 |
 | Svg | 604 | 77 | 32 | 23 |
 
@@ -33,27 +33,27 @@ Total: **37,722** lines of code across **144** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.2.0` (2026-07-17)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-11-26
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 12,058 · **Forks**: 939 · **Open issues**: 12 · **Contributors**: 13
+- **Stars**: 12,073 · **Forks**: 939 · **Open issues**: 12 · **Contributors**: 14
 
 ## Totals (cumulative)
 
-- **Releases**: 8 · **Merged PRs**: 20 · **Open PRs**: 1 · **Closed issues**: 11 · **Open issues**: 1 · **Commits**: 73
+- **Releases**: 8 · **Merged PRs**: 21 · **Open PRs**: 0 · **Closed issues**: 12 · **Open issues**: 0 · **Commits**: 77
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 1 | 0 | 1 | 1 |
-| 90d | 2026-08-27 | 0 | 0 | 1 | 0 | 1 | 2 |
-| last180d | 2026-05-29 | 8 | 4 | 1 | 3 | 1 | 18 |
-| 360d | 2025-11-30 | 8 | 20 | 1 | 11 | 1 | 50 |
-| last720d | 2024-12-05 | 8 | 20 | 1 | 11 | 1 | 73 |
+| 30d | 2026-10-27 | 0 | 1 | 0 | 0 | 0 | 3 |
+| last60d | 2026-09-27 | 0 | 1 | 0 | 1 | 0 | 4 |
+| 90d | 2026-08-28 | 0 | 1 | 0 | 1 | 0 | 5 |
+| last180d | 2026-05-30 | 8 | 5 | 0 | 4 | 0 | 21 |
+| 360d | 2025-12-01 | 8 | 21 | 0 | 12 | 0 | 53 |
+| last720d | 2024-12-06 | 8 | 21 | 0 | 12 | 0 | 77 |
 
 ## Release assets
 
@@ -72,4 +72,4 @@ Install metadata for fireworks-tech-graph lives in the [x-cmd/install](https://g
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:32:53Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T10:22:17Z._
